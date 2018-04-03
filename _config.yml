@@ -17,9 +17,7 @@ avatar: https://avatars2.githubusercontent.com/u/36770818?s=200&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  github: pokeworld/blog
-  linkedin:
-  pinterest:
+  github: pokeworld
   twitter: theedgenk
   youtube: # channel/<your_long_string> or user/<user-name>
 
