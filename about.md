@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-Some information about you!
+Contact information.
 
-### More Information
+### Email
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[contact@universedevgroup.net](mailto:contact@universedevgroup.net)
